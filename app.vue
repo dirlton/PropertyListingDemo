@@ -35,6 +35,7 @@
 </template>
 
 <script>
+//Test
 import profilePic from '~/assets/img/profile.jpg';
 export default {
   data() {
